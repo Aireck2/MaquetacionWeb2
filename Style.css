@@ -1,0 +1,13 @@
+
+.menu li{
+    list-style: none;
+    display: inline-block;
+}
+.menu li a{
+    text-align: center;
+    text-decoration: none;
+}
+.banner{
+    background-image: url("img/fondos/BANNER.jpg");
+    height:446px; 
+}
